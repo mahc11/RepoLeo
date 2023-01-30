@@ -1,3 +1,6 @@
 Mi nombre es leo
 soy tecnico en sistemas
 y otras maricadas
+
+Ahora trabajo en una empresa muy gonorea
+y estoy aprendiendo git.
